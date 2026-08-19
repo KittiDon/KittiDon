@@ -9,12 +9,11 @@ Self-taught, based in India. Most of what I know came from reading source code
 and breaking things.
 
 [![Email](https://img.shields.io/badge/email-kirtanbhagat.mb@gmail.com-e8833a?style=flat-square&labelColor=0b0b0d)](mailto:kirtanbhagat.mb@gmail.com)
-[![Benchmark](https://img.shields.io/badge/repo-whisper--indian--english--benchmark-e6e1d7?style=flat-square&labelColor=0b0b0d)](https://github.com/KittiDon/whisper-indian-english-benchmark)
-[![Saves Engine](https://img.shields.io/badge/repo-instagram--saves--engine-e6e1d7?style=flat-square&labelColor=0b0b0d)](https://github.com/KittiDon/instagram-saves-engine)
+[![Benchmark](https://img.shields.io/badge/repo-whisperflow--for--indian--english--benchmark-e6e1d7?style=flat-square&labelColor=0b0b0d)](https://github.com/KittiDon/whisperflow-for-indian-english-benchmark)
 
 ---
 
-## whisper-indian-english-benchmark
+## whisperflow-for-indian-english-benchmark
 
 A reproducible harness for measuring Whisper's transcription accuracy on
 Indian-accented English, broken down by the speaker's first language instead of
@@ -62,7 +61,7 @@ can check would defeat the point.
 
 ---
 
-## instagram-saves-engine
+## instagram-saves-engine _(local, not published)_
 
 Pulls Instagram saved posts into Notion twice a day on a launchd timer, then
 turns them into content ideas on demand. Python, the Instagram web API, and the
