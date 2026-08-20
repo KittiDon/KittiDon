@@ -1,4 +1,4 @@
-![](assets/banner.svg)
+![](assets/portrait.svg)
 
 # Kirtan Bhagat
 
